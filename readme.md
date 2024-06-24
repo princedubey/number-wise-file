@@ -10,10 +10,10 @@ This Node.js project processes input numbers, multiplies them by 7, and stores t
 
 ## Setup
 
-### Step 1: Clone the Repository
+### Clone the Repository
 
-```sh
-git clone <this repo url>
+
+git clone https://github.com/princedubey/number-wise-file.git
 cd thi project file
 npm install
 
